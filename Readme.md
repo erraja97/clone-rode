@@ -2,7 +2,7 @@
 This project is a part of Full stack Javascript Bootcamp. In this project i have used HTML and Tailwind CSS to bring out final result.
 
 ## Project Link
-### [Web Design](https://site-webdesign.netlify.app/)
+### [Web Design](https://rode-good.netlify.app/)
 
 ## Snapshot
 
