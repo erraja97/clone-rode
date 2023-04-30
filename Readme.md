@@ -6,7 +6,7 @@ This project is a part of Full stack Javascript Bootcamp. In this project i have
 
 ## Snapshot
 
-![Project 8 - Web Design](./snapshot/final.JPG)
+![Tailwind Project - RODE Clone Design](./snapshot/final.JPG)
 
 
 ## What i learned from Project?
