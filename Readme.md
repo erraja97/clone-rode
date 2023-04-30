@@ -1,4 +1,4 @@
-# Project 8 - Web Design
+# Tailwind Project - RODE Clone
 This project is a part of Full stack Javascript Bootcamp. In this project i have used HTML and Tailwind CSS to bring out final result.
 
 ## Project Link
